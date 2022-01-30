@@ -17,7 +17,7 @@ body {
   background-color: hsla(342, 83%, 35%, 0.562);*/
   background: #c31432;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, hsla(275, 66%, 13%, 0.541), hsla(350, 81%, 42%, 0.445)),url(img/esan.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, hsla(275, 68%, 25%, 0.479), hsla(350, 81%, 42%, 0.445)),url(img/esan.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
