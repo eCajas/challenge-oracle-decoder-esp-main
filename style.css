@@ -21,6 +21,7 @@ background: linear-gradient(to right, hsla(275, 68%, 25%, 0.479), hsla(350, 81%,
 
 }
 
+
 .main {
   width: 80vw;
   margin: auto;
@@ -32,14 +33,13 @@ background: linear-gradient(to right, hsla(275, 68%, 25%, 0.479), hsla(350, 81%,
   padding: 15px;
   width: 30vw;
   margin: auto;
-
 }
 
 .box {
   padding: 10px;
   margin: 0 10px 0 10px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-  background-color: white;
+  background-color: rgba(23, 228, 243, 0.658);
   border-radius: 0.5em;
   width: 30vw;
   height: auto;
